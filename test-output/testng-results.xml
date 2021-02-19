@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4154" started-at="2020-10-24T17:19:05Z" finished-at="2020-10-24T17:19:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4154" started-at="2020-10-24T17:19:05Z" finished-at="2020-10-24T17:19:10Z">
+      <class name="com.restapitest.TC003_AddNewEmployee">
+        <test-method status="PASS" signature="addNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restapitest.TC003_AddNewEmployee@61832929]" name="addNewEmployee" duration-ms="2851" started-at="2020-10-24T17:19:05Z" data-provider="addEmployee" finished-at="2020-10-24T17:19:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1339]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method status="PASS" signature="addNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.restapitest.TC003_AddNewEmployee@61832929]" name="addNewEmployee" duration-ms="1268" started-at="2020-10-24T17:19:08Z" data-provider="addEmployee" finished-at="2020-10-24T17:19:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1340]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+      </class> <!-- com.restapitest.TC003_AddNewEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
